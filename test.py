@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 
-print("hello world\n")
+print("Hello World\n go to hell\n")
